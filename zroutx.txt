@@ -5,5 +5,6 @@
 # For more info and VPN-configs - visit: t.me/zroutx
 
 vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.3:52006?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%2323%20t.me%2Fzroutx
-vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.151:52006?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%A4%20%2321%20t.me%2Fzroutx
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%23439%20t.me%2Fzroutx
 vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.197.3:52006?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%91%D0%A1%20%2323%20t.me%2Fzroutx
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.54:52006?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=cluster-russia-3.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%23454%20t.me%2Fzroutx

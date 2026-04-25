@@ -1,0 +1,9 @@
+# profile-title: 🖤ZROUTX BL🖤
+# profile-update-interval: 5
+# Date/Time: 2026-04-24 / 12:14 (Moscow)
+# Количество: 3
+# For more info and VPN-configs - visit: t.me/zroutx
+
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv190.towersflowerss.com:443?security=none&encryption=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%20t.me%2Fzroutx
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%D0%92%D0%B0%D1%80%D1%88%D0%B0%D0%B2%D0%B0%20t.me%2Fzroutx
+vless://ab27403b-7de0-4fe3-8b57-7ab3cb583c32@lt.plus-hit.ru:443?security=reality&encryption=none&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.plus-hit.ru&sid=6a0f1cd94b762e98#%F0%9F%87%B1%F0%9F%87%B9%20%D0%9B%D0%B8%D1%82%D0%B2%D0%B0%20%D0%92%D0%B8%D0%BB%D1%8C%D0%BD%D1%8E%D1%81%20t.me%2Fzroutx

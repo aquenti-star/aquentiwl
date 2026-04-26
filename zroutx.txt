@@ -1,5 +1,7 @@
 # profile-title: 🔮ZROUTX WL🔮
 # profile-update-interval: 5
+#profile-web-page-url: https://t.me/zroutx
+#support-url: https://t.me/zroutx
 # Date/Time: 2026-04-24 / 15:30 (Moscow)
 # Количество: 2
 # For more info and VPN-configs - visit: t.me/zroutx

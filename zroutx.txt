@@ -9,6 +9,6 @@
 #announce: 🚀 Полностью бесплатные конфиги для обхода ограничений! Заходи в наш телеграм: zroutx 💜
 
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6WnJvdXR4VlBORnJlZQ@https://t.me/zroutx:1337#%F0%9F%8D%87Telegram%3A%20ZROUTX%F0%9F%8D%87
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.5:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20SNI%3A%20ok.ru%0At.me%2Fzroutx
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.107:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%9E%D0%B4%D0%BD%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D0%B8%D0%BA%D0%B8%0At.me%2Fzroutx
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@185.175.47.238:4443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20TCP%0At.me%2Fzroutx
+vless://a8bc1982-26cb-4ca2-b80b-09b3dd1ce332@51.250.73.181:446?mode=gun&security=reality&encryption=none&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&fp=chrome&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0512567389abcdef#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%9F%D1%8F%D1%82%D1%91%D1%80%D0%BE%D1%87%D0%BA%D0%B0%0At.me%2Fzroutx
+vless://e6fb5c47-efd3-4529-a095-614878467e9c@158.160.119.19:443?security=reality&encryption=none&pbk=b9uDzZP2udvoExtbm7nwraBaAbg0QowtY-ALDNZ__xg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=x5.ru&sid=f4e2b8971d5c3a9f#%F0%9F%87%B7%F0%9F%87%BA%20REALITY%20%F0%9F%94%A5%0At.me%2Fzroutx
+vless://40405ae9-4015-4904-97f4-ae78c36c20a4@109.120.191.230:80?security=reality&encryption=none&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&headerType=none&fp=chrome&type=tcp&sni=sso.passport.yandex.ru&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20ID%0At.me%2Fzroutx

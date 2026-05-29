@@ -3,11 +3,9 @@
 # subscription-userinfo: upload=0; download=0; total=107374182400
 # profile-web-page-url: https://t.me/zroutx
 # support-url: https://t.me/zroutx
-# Date/Time: 2026-05-29 / 14:29 (Moscow)
-# Количество: 3
+# Date/Time: 2026-05-29 / 14:30 (Moscow)
+# Количество: 1
 # For more info and VPN-configs - visit: t.me/zroutx
 # announce: 🚀 Полностью бесплатные конфиги для обхода ограничений! Заходи в наш телеграм: zroutx 💜
 
 vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.252:443?path=%2Flivestreamcontent%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=top707762634.mwscdn.ru#%F0%9F%87%B2%F0%9F%87%A9%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=%2F&security=tls&encryption=none&insecure=0&host=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev#%F0%9F%87%BA%F0%9F%87%B2%20%D0%A1%D0%A8%D0%90%20%F0%9F%94%A5
-vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@185.81.128.86:443?security=reality&encryption=none&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&headerType=none&fp=firefox&type=tcp&sni=cloudrynth.com#%F0%9F%87%B1%F0%9F%87%BB%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F

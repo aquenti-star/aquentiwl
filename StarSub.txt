@@ -7,3 +7,6 @@
 # For more info and VPN-configs - visit: t.me/zroutx
 #subscription-userinfo: upload=0; download=0; total=0
 #announce: 🚀 Полностью бесплатные конфиги для обхода ограничений! Заходи в наш телеграм: zroutx 💜
+
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6WnJvdXR4VlBORnJlZQ@https://t.me/zroutx:1337#%F0%9F%8D%87Telegram%3A%20ZROUTX%F0%9F%8D%87
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6WnJvdXR4VlBORnJlZQ@https://t.me/zroutx:1337#%E2%AD%90StarSub%E2%AD%90

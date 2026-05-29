@@ -1,12 +1,12 @@
 # profile-title: ⭐StarSub⭐
 # profile-update-interval: 5
-#profile-web-page-url: https://t.me/zroutx
-#support-url: https://t.me/zroutx
-# Date/Time: 2026-04-24 / 15:30 (Moscow)
-# Количество: 2
+# profile-web-page-url: https://t.me/zroutx
+# support-url: https://t.me/zroutx
+# Date/Time: 2026-05-29 / 12:41 (Moscow)
+# Количество: 3
 # For more info and VPN-configs - visit: t.me/zroutx
-#subscription-userinfo: upload=0; download=0; total=0
-#announce: 🚀 Полностью бесплатные конфиги для обхода ограничений! Заходи в наш телеграм: zroutx 💜
+# announce: 🚀 Полностью бесплатные конфиги для обхода ограничений! Заходи в наш телеграм: zroutx 💜
 
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6WnJvdXR4VlBORnJlZQ@https://t.me/zroutx:1337#%F0%9F%8D%87Telegram%3A%20ZROUTX%F0%9F%8D%87
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6WnJvdXR4VlBORnJlZQ@https://t.me/zroutx:1337#%F0%9F%8C%9FStarSub%F0%9F%8C%9F
+vless://a67e3045-626c-42c9-8cc0-a5afa6b18b05@95.85.228.146:8443?security=reality&encryption=none&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=92d0c4089b6c1da3#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F

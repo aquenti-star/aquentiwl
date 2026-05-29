@@ -1,5 +1,6 @@
 # profile-title: ⭐StarSub⭐
 # profile-update-interval: 5
+# subscription-userinfo: upload=0; download=0; total=107374182400
 # profile-web-page-url: https://t.me/zroutx
 # support-url: https://t.me/zroutx
 # Date/Time: 2026-05-29 / 13:19 (Moscow)
